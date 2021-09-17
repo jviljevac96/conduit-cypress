@@ -1,0 +1,1 @@
+export { headerFooter } from './header-footer';
